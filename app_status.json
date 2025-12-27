@@ -1,7 +1,7 @@
 {
   "is_active": false,
-  "title": "Access Restricted",
-  "message": "شكراً لتجربة التطبيق، النسخة ما زالت تعمل.",
+  "title": "انتهت فترة التجربة",
+  "message": "للحصول على التطبيق يرجى التواصل معنا",
   "email": "info@danageency.com",
   "min_version": "1.0.0"
 }
